@@ -1,7 +1,7 @@
     public class Fichero {
      
     	public static void main(String[] args) {		
-    		System.out.println("Hola Menes");
+    		System.out.println("Hola a todos!");
     	}
      
     }
